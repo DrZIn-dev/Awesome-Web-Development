@@ -153,3 +153,40 @@ Maybe the popularity of jQuery has passed the top, but it is still the most used
 | [ Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)              | his extension automatically adds the closing tag of HTML and XML.                                                                                                                            |
 | [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)                             | Testing API and integration to the UI is a huge part of web development. I am sure you have done it so many times.                                                                           |
 | [Code time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)                      | This extension tracks your development time and provides you with useful stats such as how many hours you have code today etc.                                                               |
+
+---
+
+## HTML
+
+- overview
+- web
+- course
+- recommended tutorial
+
+## CSS
+
+- overview
+- web
+- guide
+- recommended tutorial
+
+## JavaScript
+
+- overview
+- web
+- guide
+- recommended tutorial
+
+## Font-End Frameworks
+
+- React
+- Angular
+- Vue
+- Alternative
+
+## React
+
+- overview
+- web
+- guide
+- recommended tutorial
