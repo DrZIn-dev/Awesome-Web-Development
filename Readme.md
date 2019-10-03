@@ -132,36 +132,64 @@ Maybe the popularity of jQuery has passed the top, but it is still the most used
 
 ## VS code Extension Review
 
-| name                                                                                                             | review                                                                                                                                                                                       |
-| :--------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Debugger for chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)          | This extension gives you all (or close to all) of those debugging features right inside of VS Code!                                                                                          |
-| [Javascript (ES6) Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) | This extensions provides you with snippets for popular pieces of modern (ES6) JavaScript code.                                                                                               |
-| [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)                             | This extension can be configured to auto format your code as well as with linting errors/warnings. VS Code specifically is also perfectly configured to show you these errors/warnings.      |
-| [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)                         | It also runs your app on a localhost server. There are some things you can only test when running your app from a server                                                                     |
-| [Bracket Pair Colorizor](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)   | Bracket Pair Colorizer (as you might expect) colors matching brackets to make your code much more readable.                                                                                  |
-| [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)             | Auto Rename Tag, you just need to rename either the opening or closing tag, and the other will be renamed automatically.                                                                     |
-| [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)                            | Quokka gives you a JavaScript (and TypeScript) scratchpad in VS Code                                                                                                                         |
-| [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)      | As you start typing a path in quotations, you will get intellisense for directories and file names.                                                                                          |
-| [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)                   | You save a config file in your repository which your editor respects. In this case, you have to add an extension to VS Code for it to respect these config files                             |
-| [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)                                  | You get blame information, line and file history, commit searching, and so much more                                                                                                         |
-| [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)                           | I mentioned ESLint which provides formatting and linting. If you don't need the linting part, then go with Prettier.                                                                         |
-| [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)                | This extension color codes various types of comments to give them different significance and stand out from the rest of your code.                                                           |
-| [VS Code Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)                | you'll seen an option for "File Icon Theme". From there you can choose from the pre-installed icons or install an icon pack.                                                                 |
-| [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)             | Fan of Google's Material design? Then, check out this Material themed icon pack.                                                                                                             |
-| [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)                     | Developers, myself included, spend a lot of time customizing their dev environment, especially their text editors. With the Settings Sync extension, you can save your setting off in Github |
-| [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)                             | Align your code by colon(:), assignment(=,+=,-=,\*=,/=) and arrow(=>). It has additional support for comma-first coding style and trailing comment.                                          |
-| [ Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)              | his extension automatically adds the closing tag of HTML and XML.                                                                                                                            |
-| [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)                             | Testing API and integration to the UI is a huge part of web development. I am sure you have done it so many times.                                                                           |
-| [Code time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)                      | This extension tracks your development time and provides you with useful stats such as how many hours you have code today etc.                                                               |
+| name                                                                                                                                                | review                                                                                                                                                                                       |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Debugger for chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)                                             | This extension gives you all (or close to all) of those debugging features right inside of VS Code!                                                                                          |
+| [Javascript (ES6) Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)                                    | This extensions provides you with snippets for popular pieces of modern (ES6) JavaScript code.                                                                                               |
+| [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)                                                                | This extension can be configured to auto format your code as well as with linting errors/warnings. VS Code specifically is also perfectly configured to show you these errors/warnings.      |
+| [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)                                                            | It also runs your app on a localhost server. There are some things you can only test when running your app from a server                                                                     |
+| [Bracket Pair Colorizor](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)                                      | Bracket Pair Colorizer (as you might expect) colors matching brackets to make your code much more readable.                                                                                  |
+| [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)                                                | Auto Rename Tag, you just need to rename either the opening or closing tag, and the other will be renamed automatically.                                                                     |
+| [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)                                                               | Quokka gives you a JavaScript (and TypeScript) scratchpad in VS Code                                                                                                                         |
+| [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)                                         | As you start typing a path in quotations, you will get intellisense for directories and file names.                                                                                          |
+| [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)                                                      | You save a config file in your repository which your editor respects. In this case, you have to add an extension to VS Code for it to respect these config files                             |
+| [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)                                                                     | You get blame information, line and file history, commit searching, and so much more                                                                                                         |
+| [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)                                                              | I mentioned ESLint which provides formatting and linting. If you don't need the linting part, then go with Prettier.                                                                         |
+| [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)                                                   | This extension color codes various types of comments to give them different significance and stand out from the rest of your code.                                                           |
+| [VS Code Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)                                                   | you'll seen an option for "File Icon Theme". From there you can choose from the pre-installed icons or install an icon pack.                                                                 |
+| [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)                                                | Fan of Google's Material design? Then, check out this Material themed icon pack.                                                                                                             |
+| [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)                                                        | Developers, myself included, spend a lot of time customizing their dev environment, especially their text editors. With the Settings Sync extension, you can save your setting off in Github |
+| [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)                                                                | Align your code by colon(:), assignment(=,+=,-=,\*=,/=) and arrow(=>). It has additional support for comma-first coding style and trailing comment.                                          |
+| [ Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)                                                 | his extension automatically adds the closing tag of HTML and XML.                                                                                                                            |
+| [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)                                                                | Testing API and integration to the UI is a huge part of web development. I am sure you have done it so many times.                                                                           |
+| [Code time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)                                                         | This extension tracks your development time and provides you with useful stats such as how many hours you have code today etc.                                                               |
+| [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)                                                         |                                                                                                                                                                                              |
+| [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)                                                       |                                                                                                                                                                                              |
+| [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)                     |                                                                                                                                                                                              |
+| [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode) |                                                                                                                                                                                              |
+| [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)                                                |
 
 ---
 
 ## HTML
 
-- overview
-- web
+### **overview**
+
+HTML stands for Hypertext Markup Language, and it is the most widely used language to write Web Pages.
+
+#### Basic HTML
+
+```<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>This is document title</title>
+   </head>
+
+   <body>
+      <h1>This is a heading</h1>
+      <p>Document content goes here.....</p>
+   </body>
+
+</html>
+```
+
+### **web**
+
 - course
 - recommended tutorial
+
+---
 
 ## CSS
 
@@ -170,6 +198,8 @@ Maybe the popularity of jQuery has passed the top, but it is still the most used
 - guide
 - recommended tutorial
 
+---
+
 ## JavaScript
 
 - overview
@@ -177,12 +207,16 @@ Maybe the popularity of jQuery has passed the top, but it is still the most used
 - guide
 - recommended tutorial
 
+---
+
 ## Font-End Frameworks
 
 - React
 - Angular
 - Vue
 - Alternative
+
+---
 
 ## React
 
