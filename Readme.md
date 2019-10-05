@@ -77,7 +77,7 @@ On the CSS side you should choose a framework for responsive web design:
 Bootstrap / Material Design / W3.CSS
 
 On the JavaScript side you should learn at least one modern framework:
-React.js / Angular.js / Vue.js / W3.JS
+React.js / Angular.js / Vue.js / W3.JS / Svelt
 
 Maybe the popularity of jQuery has passed the top, but it is still the most used JavaScript framework.
 
@@ -88,6 +88,19 @@ Maybe the popularity of jQuery has passed the top, but it is still the most used
   - [React](https://reactjs.org/) - React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes
   - [Vue](https://vuejs.org/) - progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only
   - [Augular vs React vs Vue ](https://hackernoon.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2019-16ce0deb3847) - Which is the Best Choice for 2019?
+  - [Svelte](https://svelte.dev/) - Svelte is a radical new approach to building user interfaces
+
+### **Step 4** Going a bit further
+
+There are also various tools and concepts that you can go and study such as testing and bundling for production.
+
+- Module Bundle
+   - [Webpack](https://webpack.js.org/) - Javascript module bundler for usage in a browser
+   - [Parcel](https://parceljs.org/) - Zero configuration web application bundler
+- Automatic Testing
+   - [Puppeteer](https://developers.google.com/web/tools/puppeteer) - Node library with high level-API for crawling SPA, automate testing
+   - [Selenium](http://www.seleniumhq.org/) - Frontend testing tool, performs end to end testing across various browsers & platform.
+- [Microfrontend](https://micro-frontends.org/) - Microservice idea to frontend development
 
 ---
 
@@ -122,10 +135,10 @@ Maybe the popularity of jQuery has passed the top, but it is still the most used
 - version control
   - [Git](https://git-scm.com/) - free and open source distributed version control system designed to handle everything
   - [GitHub](https://github.com/) - the world's largest community of developers to discover, share, and build better software.
-- package manager
+- Package manager
   - [npm](https://www.npmjs.com/) - npm is a package manager for the JavaScript programming language.
   - [yarn](https://yarnpkg.com/lang/en/) - FAST, RELIABLE, AND SECURE DEPENDENCY MANAGEMENT.
-- web browser
+- Web browser
   - [Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools?utm_source=dcc&utm_medium=redirect&utm_campaign=2018Q2) - set of web developer tools built directly into the Google Chrome browser.
 
 ---
